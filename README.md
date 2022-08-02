@@ -2,7 +2,8 @@
 https://public.tableau.com/app/profile/edil.monica.s/viz/EdilMonicaproject03oct2021/Dataanalysisonclaimofinsurance#1 
 
 
-Executive summary
+# Executive summary
+
 1.	Most of the owners prefer to SUV car.
 2.	Highest % of use of car is by blue collar job owners.
 3.	Travel time is high by the blue collar job people.
@@ -18,7 +19,8 @@ Executive summary
 13.	Filters are used in the dashboard all 5 dahboards.
 14.	There are parents who are unmarried and still adopt childrens with them.
 
-Recommendations
+# Recommendations
+
 1.	Insurance company has to ﬁx only certain percentage of damage can be claimed.
 2.	Need to increase the premium claim amount based on age factor.
 3.	Since Suv car is claiming high the manufacturer has to ﬁnd the root cause for the accidents or claiming and need to ﬁx it to avoid the claim of insurance many number of times
